@@ -1,4 +1,4 @@
-.card {
+.projectCard {
     background-size: cover;
     background-position: center;
     background-clip: content-box;
@@ -12,23 +12,5 @@
     position: absolute;
     display: block;
     margin-top: 30px;
-    background-image: url("../../assets/images/cardimage.png");
+    background-image: url("../../assets/images/weatherimage.png");
   }
-
-@media screen and (max-width: 1400px) {
-  .card {
-    position: relative;
-    margin: 0 auto;
-    display: block;
-  }
-}
-
-
-@media screen and (max-width: 768px) {
-  .card {
-    position: relative;
-    margin: 0 auto;
-    display: block;
-  }
-}
-
