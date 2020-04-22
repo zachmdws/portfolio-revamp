@@ -16,4 +16,18 @@
     background-image: url("../../assets/images/cardimage.png");
   }
 
+@media screen and (max-width: 1024px) {
+  .card {
+    position: relative;
+    margin: 0 auto;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .card {
+    position: relative;
+    margin: 0 auto;
+  }
+}
 
