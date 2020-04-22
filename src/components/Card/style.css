@@ -1,0 +1,19 @@
+.card {
+    background-size: cover;
+    background-position: center;
+    background-clip: content-box;
+    border: 6px solid white;
+    color: white;
+    font-size: 25px;
+    height: 400px;
+    width: 400px;
+    border-radius: 2%;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    position: absolute;
+    display: block;
+    /* margin: 0 auto; */
+    margin-top: 30px;
+    background-image: url("../../assets/images/cardimage.png");
+  }
+
+

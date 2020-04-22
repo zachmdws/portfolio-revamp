@@ -1,0 +1,9 @@
+nav.navbar.navbar-default {
+    margin-bottom: 0;
+}
+
+.navbar {
+    background-color: cadetblue;
+    height: 50px;
+    padding: 5px;
+}
