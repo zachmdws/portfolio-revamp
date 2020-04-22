@@ -16,15 +16,8 @@
     display: block;
 }
 
-@media screen and (max-width: 1024px) {
-    .about {
-        float:none;
-        text-align: center;
-        margin: 0 auto;
-    }
-}
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1400px) {
     .about {
         float: none;
         text-align: center;

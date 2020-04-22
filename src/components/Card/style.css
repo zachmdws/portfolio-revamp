@@ -16,10 +16,11 @@
     background-image: url("../../assets/images/cardimage.png");
   }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1400px) {
   .card {
     position: relative;
     margin: 0 auto;
+    display: block;
   }
 }
 
@@ -28,6 +29,7 @@
   .card {
     position: relative;
     margin: 0 auto;
+    display: block;
   }
 }
 

@@ -6,4 +6,25 @@ nav.navbar.navbar-default {
     background-color: cadetblue;
     height: 50px;
     padding: 5px;
+    text-align: left;
+    font-size: x-large;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+@media screen and (max-width: 768px) { 
+
+    .navbar {
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+
 }
