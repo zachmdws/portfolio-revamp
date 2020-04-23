@@ -1,16 +1,23 @@
 .projectCard {
-    background-size: cover;
-    background-position: center;
-    background-clip: content-box;
     border: 6px solid white;
-    color: white;
-    font-size: 25px;
-    height: 400px;
-    width: 400px;
+    color: black;
+    font-size: 20px;
+    height: 450px;
+    width: 500px;
     border-radius: 2%;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-    position: absolute;
-    display: block;
+    float: left;
+    margin-left: 10px;
+    margin-right: 25px;
     margin-top: 30px;
-    background-image: url("../../assets/images/weatherimage.png");
+  }
+
+  .cardImage {
+    height: 250px;
+    width: 500px;
+  }
+
+  .projectCardBody {
+    color: black;
+    font-size: 25px;
   }
