@@ -3,6 +3,7 @@ import ProjectCard from "../components/ProjectCard";
 import Planner from "../assets/images/workimage.png";
 import Fit from "../assets/images/fitimage.png";
 import Cadenza from "../assets/images/cadenzaimage.png";
+import Container from "../components/Container";
 
 class Projects extends Component {
 
@@ -10,6 +11,7 @@ class Projects extends Component {
   render() {
     return (
       <div>
+          <Container style={{ marginTop: 30 }}>
         <a 
         href="https://github.com/zachmdws/Day-Planner"
         target="_blank"
@@ -40,7 +42,9 @@ class Projects extends Component {
           description="A final project assignment when I completed my course at the UNCC Coding Bootcamp. A forum website designed and created by myself and 3 other programmers."
         />
         </a>
+        </Container>
       </div>
+      
     );
   }
 }

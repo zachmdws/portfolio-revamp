@@ -10,6 +10,7 @@ class About extends Component {
             <div>
                 <Card />
                 <AboutMe />
+                
             </div>
         )
     }
