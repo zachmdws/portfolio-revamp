@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Projects from "./pages/Projects";
 import NameLogo from "./components/NameLogo";
 import About from "./pages/About";
-import '../App.css''
+import '../App.css';
 
 function App() {
   return (
