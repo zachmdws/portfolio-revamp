@@ -6,12 +6,11 @@
     margin-top: auto;
   } 
   
-/* 
-.footer img {
-    height: 55px;
-    width: 55px;
+ 
+.footerImg {
+  opacity: 100%;
     
-  } */
+  } 
 
   /* .footer span {
     position: absolute;
