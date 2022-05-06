@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './app/App.js';
+import App from './App.js';
 import Footer from "./components/Footer";
 import * as serviceWorker from './serviceWorker';
 
