@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Card from "../components/Card";
 import AboutMe from "../components/AboutMe";
-import VideoBG from "../components/VideoBG";
+import VideoBG from "../components/VideoBG/VideoBG;"
 
 
 
