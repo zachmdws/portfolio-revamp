@@ -4,7 +4,7 @@ import "./styles.css";
 function Footer() { 
     return(
         <footer className="footer">
-            <a class = "lemmesee"href="https://github.com/zachmdws" >
+            <a href="https://github.com/zachmdws" >
                 <img className ="footerImg" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Logo" style={{height: "55px", borderRadius: "50%", marginRight: "15px"}}/>
             </a>
             <a href="https://www.linkedin.com/in/zachary-meadows-102681145/" >
