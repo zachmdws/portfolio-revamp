@@ -11,7 +11,7 @@ function AboutMe() {
         of projects utilizing technologies such as MySQL and MongoDB. I am also
         accustom to JavaScript itself and React.
         
-        Feel free to check out my Github page as well as my LinkedIn, below. 
+        Feel free to check out my Github page as well as my LinkedIn, 
       </p>
     )
 }
