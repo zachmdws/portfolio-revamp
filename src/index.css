@@ -39,4 +39,5 @@ body {
   flex-shrink: 0;
   text-align: center;
   color: white;
+  opacity: .5;
 }
