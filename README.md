@@ -6,5 +6,5 @@ My portfolio, remade using React, displays several projects I have completed bot
 
  https://zachary-m.herokuapp.com/
 
- ![Screenshot of Heroku page](./src/assets/images/portfolioimage.png)
+ ![Screenshot of Heroku page](./src/assets/images/updatedportfolioimage.png)
 
