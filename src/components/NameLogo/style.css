@@ -11,6 +11,9 @@
     color: whitesmoke;
 }
 
+
+/* Below configures/messes with mobile view, didn't type this when I took Bootcamp 5/8/22 -ZM */
+
 @media screen and (max-width: 768px) {
     .name {
         width: 100%;
