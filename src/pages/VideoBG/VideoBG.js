@@ -1,7 +1,7 @@
 import React from "react";
 import VideoBg from "reactjs-videobg";
 import mp4 from "../../assets/images/ocean-video-background.mp4";
-import poster from "../../assets/images/portfolioimage.png"
+import poster from "../../assets/images/ocean-video-background.mp4";
 
 function VideoBG(){ 
   return (
