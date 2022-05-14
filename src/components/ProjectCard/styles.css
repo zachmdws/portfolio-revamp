@@ -1,10 +1,10 @@
 .projectCard {
-    border: 6px solid salmon;
+    border: 6px solid rgb(231, 162, 154);
     color: black;
     font-size: 8px;
     height: 175px;
     width: 250px;
-    border-radius: 5%;
+    border-radius: 15%;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     float: left;
     margin-left: 10px;
