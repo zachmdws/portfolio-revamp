@@ -9,9 +9,8 @@ class About extends Component {
     render() {
         return (
             <div>
-               <VideoBG />
-                
-                <AboutMe />
+            <VideoBG />
+            <AboutMe />
                 
             </div>
         )
