@@ -15,6 +15,12 @@ class About extends Component {
     render() {
         return (
             <div>
+            <VideoBG />
+            <AboutMe />
+                
+
+
+            <div>
           <Container style={{ marginTop: 30 }}>
         <a 
         href="https://github.com/zachmdws/Day-Planner"
@@ -47,11 +53,8 @@ class About extends Component {
         />
         </a>
         </Container>
-            <div>
-            <VideoBG />
-            <AboutMe />
-                
-            </div>
+            
+        </div>
         </div>
         )
         }
