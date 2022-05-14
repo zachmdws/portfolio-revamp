@@ -30,7 +30,6 @@ class About extends Component {
 
         <ProjectCard
           image={Cadenza}
-          description="A final project assignment when I completed my course at the UNCC Coding Bootcamp. A forum website designed and created by myself and 3 other programmers."
         />
         </a>
         </Container>
