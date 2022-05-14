@@ -4,7 +4,7 @@ import "./style.css";
 function AboutMe() {
     return ( 
         <p className="about animated fadeIn delay-.5s">
-        I am Zachary Meadows, a graduate of the University of North Carolina at
+        I am a graduate of the University of North Carolina at
         Charlotte with a Bachelor's of Science in Accounting. I recently
         completed The Coding Boot Camp at UNC Charlotte and am an aspiring
         junior web developer! My strengths include working on the database end
