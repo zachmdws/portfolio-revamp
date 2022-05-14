@@ -1,5 +1,5 @@
 .projectCard {
-    border: 6px solid ghostwhite;
+    border: 6px solid salmon;
     color: black;
     font-size: 8px;
     height: 175px;
@@ -15,8 +15,8 @@
   }
 
   .cardImage {
-    height: 150px;
-    width: 225px;
+    height: 175px;
+    width: 250px;
     margin: center;
   }
 
