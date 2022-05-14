@@ -1,9 +1,9 @@
 .projectCard {
     border: 6px solid ghostwhite;
     color: black;
-    font-size: 10px;
-    height: 250px;
-    width: 150px;
+    font-size: 8px;
+    height: 175px;
+    width: 250px;
     border-radius: 2%;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     float: left;
