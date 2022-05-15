@@ -1,6 +1,7 @@
 .about {
-    color: greenyellow;
+    color: cornsilk;
     position: relative;
+    float: inherit;
     width: 65%;
     margin: auto;
     word-spacing: 2px;
