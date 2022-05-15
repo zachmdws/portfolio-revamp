@@ -23,7 +23,7 @@ class About extends Component {
             <div>
           <Container style={{ marginTop: 30 }}> 
         <a 
-        href="https://github.com/MHargett23/Music-Forum"
+        href="https://music-notation-forum-boards.herokuapp.com/"
         target="_blank"
         rel="noopener noreferrer">
 
