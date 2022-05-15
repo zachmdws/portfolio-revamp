@@ -22,7 +22,6 @@ class About extends Component {
 
             <div>
           <Container style={{ marginTop: 30 }}> 
-          <h1 >The Cadenza</h1>
         <a 
         href="https://github.com/MHargett23/Music-Forum"
         target="_blank"
@@ -32,6 +31,7 @@ class About extends Component {
           image={Cadenza}
         />
         </a>
+        <h1 >The Cadenza</h1>
         </Container>
             
         </div>
