@@ -26,12 +26,11 @@ class About extends Component {
         href="https://music-notation-forum-boards.herokuapp.com/"
         target="_blank"
         rel="noopener noreferrer">
-
+        <h1 >The Cadenza</h1>
         <ProjectCard
           image={Cadenza}
         />
         </a>
-        <h1 >The Cadenza</h1>
         </Container>
             
         </div>
