@@ -22,7 +22,7 @@ class About extends Component {
 
             <div>
           <Container style={{ marginTop: 30 }}> 
-          <h1 style="">The Cadenza</h1>
+          <h1 >The Cadenza</h1>
         <a 
         href="https://github.com/MHargett23/Music-Forum"
         target="_blank"
