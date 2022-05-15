@@ -21,12 +21,12 @@ class About extends Component {
 
 
             <div>
-          <Container style={{ marginTop: 30 }}> 
+          <Container style={{ marginTop: 70 }}> 
+          <h1  >The Cadenza</h1>
         <a 
         href="https://music-notation-forum-boards.herokuapp.com/"
         target="_blank"
         rel="noopener noreferrer">
-        <h1 style={{ textDecoration: 'none' }} >The Cadenza</h1>
         <ProjectCard
           image={Cadenza}
         />
