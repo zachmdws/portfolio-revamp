@@ -15,6 +15,7 @@
 
 h1 {
     left: 10px;
+    position: relative;
     text-decoration: none;
 }
 
