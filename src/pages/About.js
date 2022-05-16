@@ -17,11 +17,8 @@ class About extends Component {
             <div>
             <VideoBG />
             <AboutMe />
-                
-
-
             <div>
-          <Container style={{ marginTop: 70 }}> 
+          <Container style={{ marginTop: 30 }}> 
           <h1  >The Cadenza</h1>
         <a 
         href="https://music-notation-forum-boards.herokuapp.com/"
