@@ -14,7 +14,8 @@
 }
 
 h1 {
-    align-self: auto;
+    left: 10px;
+    text-decoration: none;
 }
 
 .link {
