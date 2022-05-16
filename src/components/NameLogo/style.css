@@ -4,13 +4,13 @@
 .name {
     width: 12%;
     float: right;
-    background-color: (209, 124, 169);
+    background-color:rgb(243, 122, 186);
     font-family: 'Dancing Script';
     height: 30px;
     text-align: center;
     margin-right: 20px;
     padding: 15px;
-    font-size: larger;
+    font-size: x-large;
     text-decoration: none;
     color: whitesmoke;
 }
