@@ -13,6 +13,10 @@
     display: inline-flexbox;
 }
 
+h1 {
+    float: left;
+}
+
 .link {
     position: relative;
     display: block;
