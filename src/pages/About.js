@@ -19,11 +19,11 @@ class About extends Component {
             <AboutMe />
             <div>
           <Container style={{ marginTop: 30 }}> 
+        <h1>The Cadenza</h1>
         <a 
         href="https://music-notation-forum-boards.herokuapp.com/"
         target="_blank"
         rel="noopener noreferrer">
-        <h1>The Cadenza</h1>
         <ProjectCard
           image={Cadenza}
         />
