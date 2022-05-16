@@ -1,14 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+
+
 .name {
     width: 12%;
     float: right;
-    background-color: rgb(94, 143, 145);
-    font-family: Snell Roundhand, cursive;
+    background-color: (209, 124, 169);
+    font-family: 'Dancing Script';
     height: 30px;
     text-align: center;
     margin-right: 20px;
     padding: 15px;
     font-size: larger;
-    /*text-decoration: none;*/
+    text-decoration: none;
     color: whitesmoke;
 }
 
