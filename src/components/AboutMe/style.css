@@ -14,9 +14,11 @@
 }
 
 h1 {
-    left: 10px;
+    left: 30px;
     position: relative;
     text-decoration: none;
+    color:rgb(31, 159, 202);
+
 }
 
 .link {
