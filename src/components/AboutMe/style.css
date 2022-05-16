@@ -14,8 +14,8 @@
 }
 
 h1 {
-    left: 30px;
-    position: relative;
+    float: none;
+    text-align: center;
     text-decoration: none;
     color:rgb(31, 159, 202);
 
